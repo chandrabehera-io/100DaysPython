@@ -1,3 +1,6 @@
+from unicodedata import name
+
+
 data = [
     {
         'name': 'Instagram',
